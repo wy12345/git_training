@@ -13,9 +13,9 @@ def div(a, b):
 def mul(a, b):
     return b
 
-def mod(a, b):
-	"""Return the mod of 2 integers"""
-	return a % b
+def mod(a, b)
+    """Return the mod of 2 integers"""
+    return a % b
 
 def pow(a, b):
     """
