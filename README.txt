@@ -1,3 +1,3 @@
 Temporary repo for Git / GitHub training
 
-This is for 2016/09/28
+This is for 2016/09/28 12:00pm
