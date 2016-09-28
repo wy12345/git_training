@@ -22,7 +22,7 @@ def pow(a, b):
     Returns a to the power of b.
 
     Parameters
-    ---------------
+    ----------
     a: int or float
         The base
     b: int or float
